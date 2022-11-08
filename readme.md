@@ -7,4 +7,6 @@
 Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/") no Stage 03.
 
 ## Aprendizados
-- 
+- Mobile-first
+- Unidade de medidas flexiveis (rem/em)
+- Media Queries
