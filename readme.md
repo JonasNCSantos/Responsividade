@@ -6,7 +6,7 @@
 ### Mobile
 <img src="./images/screenshot-mobile.png"/>
 
-### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Crie-seu-evento/)
+### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Responsividade/)
 
 ## Sobre
 Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/") no Stage 03.
