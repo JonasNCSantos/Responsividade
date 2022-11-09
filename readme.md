@@ -1,5 +1,10 @@
 # Projeto 04: Responsividade
+
+### Desktop
 <img src="./images/screenshot.png"/>
+
+### Mobile
+<img src="./images/screenshot-mobile.png"/>
 
 ### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Crie-seu-evento/)
 
